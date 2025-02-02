@@ -1,0 +1,14 @@
+.show{
+display: block;
+}
+
+.hidden{
+display: none;
+}
+
+.completed-task{
+background-color: rgb(71, 227, 20);
+}
+
+ 
+  
